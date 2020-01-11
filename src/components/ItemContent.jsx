@@ -111,7 +111,7 @@ const ItemContent = ({ post, html }) => {
               <strong>${post.price}</strong>
             </Cost>
             <p>
-            <a href={`${post.care}`}>Care Instructions</a>
+            {/* <a href={`${post.care}`}>Care Instructions</a> */}
             </p>
             
             {/* <p className="ItemName">
