@@ -32,12 +32,12 @@ const SocialIcons = () => {
   // https://www.johnvincent.io/gatsby/react-icons/
 
   //const mailToUrl = `mailto:${config.email}?Subject=Hello`;
-  const twitterUrl = `http://twitter.com/jacobsimmerman`;
-  const facebookURL = `https://facebook.com/`;
-  const pinterestUrl = `https://pinterest.com/jacobsimmerman`;
-  const instagramUrl = `http://instagram.com/jacobsimmerman`;
-  const redditUrl = `https://reddit.com/u/jacobsimmerman`;
-  const etsyUrl = `https://etsy.com`;
+  const twitterUrl = `http://twitter.com/SweetLeafSuccs`;
+  const facebookURL = `https://www.facebook.com/SweetLeafSucculents`;
+  const pinterestUrl = `https://www.pinterest.com/sweetleafsucculents0081/`;
+  const instagramUrl = `https://www.instagram.com/sweetleafsucculents/`;
+  const redditUrl = `https://www.reddit.com/user/SweetLeafSucculents/`;
+  const etsyUrl = `https://www.etsy.com/shop/SweetLeafSucculents`;
   //const angelUrl = `https://www.angel.co/${config.angelUsername}`;
   //const rssFeed = `${config.siteUrl}/feed.xml`;
   return (
