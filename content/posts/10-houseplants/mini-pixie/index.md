@@ -51,3 +51,15 @@ All sales are final. HOWEVER, if your plant arrives in a damaged condition that 
 If the temperature in your area or mine is below 45 degrees, we recommend a heat pack. If your area is going to be extremely cold, then you may need two heat packs. Heat packs are $4 each. If you do not want to include heat packs during cold weather, then you take full responsibility if your plant freezes. We may check the weather between South Carolina and your location, and send a message to recommend adding a heat pack. You will have until the 2 PM to add a heat pack before we ship it without one. We do not leave our plants outside for the post office to pick them up and instead take the plants to the post office before the truck comes to pick up the packages for the day at 4pm so that they are not sitting outside in the cold. We want to provide you with the highest quality plants possible and between our cost and the extra added cost of shipping, we don't make any money on the heat packs and simply provide them as a service to ensure your plants arrive safely.
 
 If you have any questions, I would be happy to answer them, not only about the listing but also about the care of your plant after you get it. My inbox is always open and I am happy to help!
+
+## Care Instructions
+
+Upon arrival, take a knife or pair of scissors and gently cut the tape that is holding the bubble wrap around your plant. Carefully remove all paper surrounding your leaves. Water, if needed, and acclimate your plant to the light. Your plant has been on a long journey in the hands of people who do not care about it as we do, so it may need a day or two to perk back up. However, if you have any issues with your order at all or your package arrives damaged, please message me and let me know so we can start working towards a resolution right away. 
+
+Syngonium Care
+
+Dwarf Syngoniums are cared for in the same manner as the larger version, however you may have to water them slightly more often because smaller pots will make the plant dry out faster. Water by soaking the soil then allowing the soil to almost dry before watering again. Fertilize once or twice a month all year. 
+
+Syngoniums want bright indirect sunlight and could be burned if they are left out in direct sun. This is a semi-tropical plant that can be outside until temperatures dip below 60 degrees F. Plants like to be somewhat rootbound, however these plants will also spread, growing new rhizomes. Increase the size of your pot as the plant spreads, or divide to keep the patch small and increase the number of plants you have. Just make sure you have both some root and rhizome on all parts, breaking up at places that look like a natural spot to divide, to give the greatest chance of success.
+
+In addition to division, you can propagate by cuttings. Simply look into the plants near the bottom for nodes. These sometimes already have aerial roots poking out from them.Simply cut below the node and root in water or soil.  
