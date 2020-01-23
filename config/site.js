@@ -8,12 +8,12 @@ module.exports = {
   siteUrl: 'https://sweetleafsucculents.com', // url + pathPrefix
   siteLanguage: 'en', // Language Tag on <html> element
   logo: 'static/logo/logo.png', // Used for SEO
-  //banner: 'static/logo/banner.png',
+  banner: 'static/logo/logo.png',
   // JSONLD / Manifest
   favicon: 'static/logo/favicon.png', // Used for manifest favicon generation
   shortName: 'SweetLeaf', // shortname for manifest. MUST be shorter than 12 characters
   author: 'Sweet Leaf Succulents and Ornamental Plants, LLC', // Author for schemaORGJSONLD
   themeColor: '#3e7bf2',
   backgroundColor: '#d3e0ff',
-  twitter: '@jacobsimmerman', // Twitter Username
+  twitter: '@SweetLeafSuccs', // Twitter Username
 };
