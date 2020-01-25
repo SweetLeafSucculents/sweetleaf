@@ -108,8 +108,8 @@ const Header = ({ children, title, date, cover }) => {
         </Logo>
 
         {/* <LoadableSocialIcons /> */}
-        {/* <SocialIcons /> */}
-        {children && <Subtitle>{children}</Subtitle>}
+        <SocialIcons />
+        {/* {children && <Subtitle>{children}</Subtitle>} */}
         
 
       </SweetLeaf>

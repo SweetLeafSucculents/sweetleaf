@@ -16,9 +16,12 @@ export const colors = {
     dark: '#284187',
   },
   background: { // green
-    light: 'hsl(120, 100%, 96%)',
-    base: 'hsl(120, 100%, 95%)',
-    dark: 'hsl(120, 100%, 94%)',
+    // light: 'hsl(120, 100%, 96%)',
+    // base: 'hsl(120, 100%, 95%)',
+    // dark: 'hsl(120, 100%, 94%)',
+    light: '#ebffeb',
+    base: '#e5ffe5',
+    dark: '#e0ffe0'
   },
   // background: {
   //   light: '#3e5fbc',
