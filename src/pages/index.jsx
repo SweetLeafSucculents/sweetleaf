@@ -160,7 +160,13 @@ const Index = ({ data }) => {
         {/* and Ornamental Plants */}
         <LoadableSocialIcons />
       </Header>
-
+      <PostWrapper>
+ 
+      {/* </PostWrapper>
+      <PostWrapper> */}
+          <h4>Our store at SweetLeafSucculents.com will open shortly, but for now you can visit our shop on <a href="https://www.etsy.com/shop/SweetLeafSucculents">Etsy</a>!</h4>   
+      </PostWrapper>
+      <hr></hr>
       <PostWrapper>
           <h2> Featured Plants </h2>
       </PostWrapper>
